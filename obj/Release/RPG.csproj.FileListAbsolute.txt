@@ -1,0 +1,7 @@
+C:\Users\keida\source\repos\RPG\RPG\bin\Release\RPG.exe.config
+C:\Users\keida\source\repos\RPG\RPG\bin\Release\RPG.exe
+C:\Users\keida\source\repos\RPG\RPG\bin\Release\RPG.pdb
+C:\Users\keida\source\repos\RPG\RPG\obj\Release\RPG.csprojAssemblyReference.cache
+C:\Users\keida\source\repos\RPG\RPG\obj\Release\RPG.csproj.CoreCompileInputs.cache
+C:\Users\keida\source\repos\RPG\RPG\obj\Release\RPG.exe
+C:\Users\keida\source\repos\RPG\RPG\obj\Release\RPG.pdb
