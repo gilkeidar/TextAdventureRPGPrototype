@@ -2,6 +2,10 @@
 
 Sorry, no story yet, just a bare-bones prototype. Implemented basic combat and interaction functionalities. A player can pick up items, store them in inventory, examine them, equip them, use them, walk between rooms, and fight enemies. There are RPG elements as well, such as levels, HP, skills, and the like.
 
+## To run the game
+
+Go to the path: bin\Release and run the RPG.exe folder.
+
 ## Command List
 
 Since there's no "help" command in the game, here is a list of all of the commands the player can use:
